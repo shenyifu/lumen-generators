@@ -1,6 +1,8 @@
-<?php namespace {{namespace}};
+<?php 
 
-use App\Models\BaseModel;;
+namespace {{namespace}};
+
+use App\Models\BaseModel;
 
 class {{name}} extends BaseModel {
 
