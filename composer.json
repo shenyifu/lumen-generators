@@ -1,12 +1,12 @@
 {
-    "name": "wn/lumen-generators",
+    "name": "shenyifu/lumen-generators",
     "description": "A collection of generators for Lumen and Laravel 5.",
 	"keywords": ["lumen", "laravel", "rest", "api", "generators"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Amine Ben hammou",
-            "email": "webneat@gmail.com"
+            "name": "shenyifu",
+            "email": "406708433@qq.com"
         }
     ],
     "require": {
